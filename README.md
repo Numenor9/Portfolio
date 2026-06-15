@@ -43,13 +43,13 @@
 ### ◉ Projects
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:00FFFF&height=2" width="100%"/>
 
-🐦 **[Flappy Bird](https://github.com/Mishimahroosh/FlappyBird)** — Java GUI Flappy Bird clone with difficulty levels, color customization and music
+🐦 **[Flappy Bird](https://github.com/Numenor9/FlappyBird)** — Java GUI Flappy Bird clone with difficulty levels, color customization and music
 
-🏓 **[Pong](https://github.com/Mishimahroosh/Pong)** — Two-player Java Pong game — first to 10 points wins
+🏓 **[Pong](https://github.com/Numenor9/Pong)** — Two-player Java Pong game — first to 10 points wins
 
-🪢 **[Hangman](https://github.com/Mishimahroosh/Hangman)** — Text-based Java Hangman with background music and ASCII art
+🪢 **[Hangman](https://github.com/Numenor9/Hangman)** — Text-based Java Hangman with background music and ASCII art
 
-🎰 **[Jeopardy](https://github.com/Mishimahroosh/Jeopardy)** — Jeopardy-style Java quiz game with safety net and timer
+🎰 **[Jeopardy](https://github.com/Numenor9/Jeopardy)** — Jeopardy-style Java quiz game with safety net and timer
 </div>
 
 <br>
