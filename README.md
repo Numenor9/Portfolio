@@ -11,7 +11,7 @@
 ### ◉ About Me
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:00FFFF&height=2" width="100%"/>
 
--  &nbsp; Studying **Computer Science**
+-  &nbsp; Studying **CS**
 -  &nbsp; Passionate about **Quality Assurance & Software Testing**
 -  &nbsp; Working towards my **ISTQB Foundation Level** certification
 -  &nbsp; Built websites including a **cybersecurity-focused project**
